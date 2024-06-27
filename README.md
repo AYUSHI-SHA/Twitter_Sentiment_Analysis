@@ -14,8 +14,6 @@ This project focuses on analyzing the sentiment of tweets using machine learning
 6. [Evaluation](#evaluation)
 7. [Results](#results)
 8. [Conclusion](#conclusion)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Dataset
 
